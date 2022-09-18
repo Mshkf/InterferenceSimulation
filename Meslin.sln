@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meslin", "Meslin.csproj", "{A5CC17D1-22BE-4946-8CFB-E15D1E401422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CC17D1-22BE-4946-8CFB-E15D1E401422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CC17D1-22BE-4946-8CFB-E15D1E401422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CC17D1-22BE-4946-8CFB-E15D1E401422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CC17D1-22BE-4946-8CFB-E15D1E401422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0F8F90A-8189-49C5-9173-56E9ECF24EAE}
+	EndGlobalSection
+EndGlobal
